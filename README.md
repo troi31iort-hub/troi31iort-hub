@@ -2,10 +2,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://profile-readme-generator-4o8vkec0l-iort.vercel.app/api?username=troi31iort-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://profile-readme-generator-4o8vkec0l-iort.vercel.app/api/top-langs/?username=troi31iort-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -107,8 +104,4 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/troi31iort-hub/troi31iort-hub/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/troi31iort-hub/troi31iort-hub/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/troi31iort-hub/troi31iort-hub/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+
