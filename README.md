@@ -1,6 +1,11 @@
 <h2 data-importer="text" align="left">Hi 👋! <br>My name is Troi <br>I'm from the Phillippines</h2>
 
 ###
+
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  
 <img src="https://github-readme-stats-p853.vercel.app/api?username=troi31iort-hub&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://streak-stats.demolab.com?user=troi31iort-hub&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
