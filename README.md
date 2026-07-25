@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="stats" align="center">
   
 <img src="https://github-readme-stats-p853.vercel.app/api?username=troi31iort-hub&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
