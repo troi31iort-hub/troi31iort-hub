@@ -1,7 +1,10 @@
 <h2 data-importer="text" align="left">Hi 👋! <br>My name is Troi <br>I'm from the Phillippines</h2>
 
 ###
-
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats-p853.vercel.app/api?username=troi31iort-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-p853.vercel.app/api/top-langs/?username=troi31iort-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRsZ3dvbGU2YjlxNG1weDQ4dzEyZXZkMWxzeWk2aDZtZG11dmRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEqhXX8g7J2D0QuhxI/giphy.gif"  />
