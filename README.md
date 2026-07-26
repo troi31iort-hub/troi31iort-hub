@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! <br>I'm Troi <br>from the Phillippines</h2>
+<h2 data-importer="text" align="left">Hi 👋! <br>Welcome to My Page<br>from the Phillippines</h2>
 
 ###
 
